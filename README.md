@@ -2,6 +2,7 @@
 ##下载
 
 	git clone https://github.com/kosmosR2/chengduLUGHexo.git
+	git clone https://github.com/kosmosR2/chengduLUG.git chengduLUGHexo/source/_posts
 
 ##require
 node.js
