@@ -1,10 +1,16 @@
 # chengduLUGHexo
 ##下载
-  git clone https://github.com/kosmosR2/chengduLUGHexo.git
+
+	git clone https://github.com/kosmosR2/chengduLUGHexo.git
+
 ##require
-  node.js
+node.js
 ##安装依赖
-  cd chengduLUGHexo 
-  npm install
+
+	cd chengduLUGHexo 
+	npm install
+
 ##运行
-  hexo server
+
+	hexo server
+
