@@ -27,7 +27,7 @@ icon_font: default
 # Code Highlight theme
 # Available value: normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # MathJax Support
@@ -62,3 +62,5 @@ images: images
 
 # Theme version
 version: 0.4.2
+
+since: 2015
