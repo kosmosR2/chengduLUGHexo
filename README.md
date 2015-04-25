@@ -2,7 +2,7 @@
 ##下载
   git clone https://github.com/kosmosR2/chengduLUGHexo.git
 ##require
-node.js
+  node.js
 ##安装依赖
   cd chengduLUGHexo 
   npm install
